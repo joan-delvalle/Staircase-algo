@@ -1,1 +1,1 @@
-# Staircase-algo
+# Staircase-algo This program prints a right-aligned staircase pattern of size `n` using the `#` symbol. For each row, it adds spaces on the left and `#` symbols on the right, making the staircase grow step by step.
